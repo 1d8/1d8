@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Languages & Tooling Used
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg)
+[![Languages and Tooling used](https://skillicons.dev/icons?i=ansible,c,python,html,js,go,powershell,bash,nim)](https://skillicons.dev)
