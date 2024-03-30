@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ### Languages & Tooling Used
 [![Languages and Tooling used](https://skillicons.dev/icons?i=ansible,c,python,html,js,go,powershell,bash,nim)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1d8&theme=blueberry-duo&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1d8&theme=blueberry-duo&hide_border=true)](https://git.io/streak-stats) -->
+
+### Current Projects
+* Malware development (private repo currently)
+* ![RogueRunBook - Ansible modules meant to be of assistance during offensive engagements](https://github.com/1d8/roguerunbook)
