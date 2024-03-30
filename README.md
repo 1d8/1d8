@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages & Tooling Used
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg)
