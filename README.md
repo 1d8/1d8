@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 ### Current Projects
 * Malware development (private repo currently)
 * ![RogueRunBook - Ansible modules meant to be of assistance during offensive engagements](https://github.com/1d8/roguerunbook)
+* ![Actively creating new blog posts, check it out!](https://1d8.github.io)
+
+#### Inspiration
+[The readme profile that inspired me to make my own](https://github.com/cr-0w/cr-0w/blob/main/README.md)
