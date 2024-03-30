@@ -12,3 +12,5 @@
 
 #### Inspiration
 [The readme profile that inspired me to make my own](https://github.com/cr-0w/cr-0w/blob/main/README.md)
+
+![](https://www.hackthebox.com/badge/image/1122134)
