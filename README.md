@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=435&lines=Browsing+MITRE+ATT%26CK+for+malware+inspo;Prepping+for+my+next+certificate;Banging+my+head+against+a+copy+of+Windows+Internals+(7th+edition);Restructuring+the+graph+of+my+Obsidian+notes;Brainstorming+another+blog+post)](https://git.io/typing-svg)
 
 <!--
 **1d8/1d8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
