@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=10000&pause=5000&random=true&width=435&lines=Browsing+MITRE+ATT%26CK+for+maldev+inspo;Prepping+for+my+next+certification;Banging+my+head+against+Windows+Internals+(7th+edition);Restructuring+my+Obsidian+graph;Brainstorming+another+blog+post)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&random=true&width=435&lines=Browsing+MITRE+ATT%26CK+for+maldev+inspo;Prepping+for+my+next+certification;Banging+my+head+against+Windows+Internals+(7th+edition);Restructuring+my+Obsidian+graph;Brainstorming+another+blog+post)](https://git.io/typing-svg)
 
 <!--
 **1d8/1d8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
