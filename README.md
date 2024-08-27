@@ -3,6 +3,7 @@
 ### Current Projects
 * Malware development (private repo currently)
 * ![RogueRunBook - Ansible modules meant to be of assistance during offensive engagements](https://github.com/1d8/roguerunbook)
+* ![Contributing malware samples to Unprotect.it](https://www.unprotect.it/users/public/profile/1d8/)
 * ![Actively creating new blog posts, check it out!](https://1d8.github.io)
 
 #### Inspiration
