@@ -3,6 +3,7 @@
 ### Current Projects
 * [New research available here on the blog](https://1d8.github.io/)
 * [Contributing malware techniques to Unprotect](https://www.unprotect.it/users/public/profile/1d8/)
+* [Offensive security research](https://github.com/1d8/offsec)
 
 #### Inspiration
 [The readme profile that inspired me to make my own](https://github.com/cr-0w/cr-0w/blob/main/README.md)
